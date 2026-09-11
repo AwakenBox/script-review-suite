@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧本四镜·项目评审"
+  short_description: "和制片团队讨论候选剧本，结合情节与项目条件，说清是否值得继续推进"
+  default_prompt: "使用 $script-review-studio 看看这些剧本哪些值得往下谈，用简短自然的话说明原因和关键条件。"

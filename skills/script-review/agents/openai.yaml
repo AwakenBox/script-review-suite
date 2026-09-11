@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧本四镜·创作者"
+  short_description: "像编剧顾问一样聊剧本，结合专业知识和具体情节，说清判断与修改方向"
+  default_prompt: "使用 $script-review 和我聊聊这份剧本，说说哪里成立、最值得改哪里，先不用报告或评分表。"

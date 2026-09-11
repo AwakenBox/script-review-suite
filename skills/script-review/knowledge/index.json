@@ -1,0 +1,473 @@
+{
+  "knowledge_version": "0.1.0",
+  "cards": [
+    {
+      "id": "K01",
+      "title": "人物行动：先找选择的根据",
+      "path": "cards/k01-character-action.md",
+      "kind": "reference",
+      "modes": [
+        "V1",
+        "V2"
+      ],
+      "dimensions": [
+        "V1-02",
+        "V1-04",
+        "V1-05",
+        "V2-02",
+        "V2-03"
+      ],
+      "tags": [
+        "人物",
+        "动机",
+        "行动",
+        "选择",
+        "因果",
+        "人物弧光"
+      ],
+      "aliases": [
+        "人物突然改变",
+        "行为不合理",
+        "突然背叛",
+        "突然原谅",
+        "人物失智",
+        "动机不足",
+        "不讨喜",
+        "没有成长"
+      ],
+      "summary": "核对欲望、当场条件与选择代价，区分性格延续和情节便利。",
+      "sources": [
+        {
+          "title": "HOW TO APPLY — Nicholl Reader Judging Criteria",
+          "url": "https://www.oscars.org/nicholl/about",
+          "checked": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "K02",
+      "title": "结构与信息：看安排改变了什么",
+      "path": "cards/k02-structure-information.md",
+      "kind": "reference",
+      "modes": [
+        "V1",
+        "V2"
+      ],
+      "dimensions": [
+        "V1-03",
+        "V1-07",
+        "V1-08",
+        "V2-04",
+        "V2-05",
+        "V2-06"
+      ],
+      "tags": [
+        "结构",
+        "信息",
+        "铺垫",
+        "揭示",
+        "悬念",
+        "结尾"
+      ],
+      "aliases": [
+        "结构混乱",
+        "信息太多",
+        "反转生硬",
+        "提前揭晓",
+        "开放结尾",
+        "故事推进",
+        "三幕式"
+      ],
+      "summary": "区分事件顺序和知情顺序，检查铺垫、揭示与结尾实际产生的体验。",
+      "sources": [
+        {
+          "title": "HOW TO APPLY — Nicholl Reader Judging Criteria",
+          "url": "https://www.oscars.org/nicholl/about",
+          "checked": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "K03",
+      "title": "场景与潜台词：人物借谈话做什么",
+      "path": "cards/k03-scene-subtext.md",
+      "kind": "reference",
+      "modes": [
+        "V1",
+        "V2"
+      ],
+      "dimensions": [
+        "V1-04",
+        "V1-05",
+        "V1-06",
+        "V1-09",
+        "V2-02"
+      ],
+      "tags": [
+        "场景",
+        "潜台词",
+        "对白",
+        "关系",
+        "欲望"
+      ],
+      "aliases": [
+        "台词太直白",
+        "没有潜台词",
+        "闲聊",
+        "说明性台词",
+        "没有冲突",
+        "场景无用"
+      ],
+      "summary": "检查谈话下的意图和场景前后的关系变化，同时保留直白表达的适用情况。",
+      "sources": [
+        {
+          "title": "Glen Mazzara’s Six Rules for Writing a Compelling TV Episode",
+          "url": "https://www.sundance.org/blogs/six-rules-for-writing-a-compelling-tv-episode/",
+          "checked": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "K04",
+      "title": "无对白与视觉叙事：信息能否被看见听见",
+      "path": "cards/k04-visual-storytelling.md",
+      "kind": "reference",
+      "modes": [
+        "V1",
+        "V2",
+        "V3"
+      ],
+      "dimensions": [
+        "V1-06",
+        "V1-09",
+        "V1-10",
+        "V2-04",
+        "V3-03"
+      ],
+      "tags": [
+        "无对白",
+        "视觉叙事",
+        "声音",
+        "动作",
+        "视听",
+        "呈现"
+      ],
+      "aliases": [
+        "没有台词",
+        "默片",
+        "镜头语言",
+        "心理描写拍不出来",
+        "对白少",
+        "纯画面"
+      ],
+      "summary": "寻找关键内容的视听线索，避免因无对白扣分或替未来制作加分。",
+      "sources": [
+        {
+          "title": "Seven Psychopaths: Martin McDonagh interview",
+          "url": "https://www.bfi.org.uk/interviews/seven-psychopaths-martin-mcdonagh-interview",
+          "checked": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "K05",
+      "title": "慢叙事与非线性：先辨认作品要人怎样观看",
+      "path": "cards/k05-duration-nonlinear.md",
+      "kind": "reference",
+      "modes": [
+        "V1",
+        "V2",
+        "V3"
+      ],
+      "dimensions": [
+        "V1-03",
+        "V1-07",
+        "V1-08",
+        "V2-04",
+        "V2-05",
+        "V3-04",
+        "V3-06"
+      ],
+      "tags": [
+        "慢叙事",
+        "非线性",
+        "节奏",
+        "时长",
+        "观察",
+        "例外"
+      ],
+      "aliases": [
+        "节奏慢",
+        "长镜头",
+        "弱情节",
+        "拖沓",
+        "碎片化",
+        "时间跳跃",
+        "倒叙",
+        "看不懂"
+      ],
+      "summary": "用注意力变化和必要辨认线索判断缓慢或错序安排的作用。",
+      "sources": [
+        {
+          "title": "Kelly Reichardt: the quiet American",
+          "url": "https://www.bfi.org.uk/sight-and-sound/interviews/kelly-reichardt-first-cow",
+          "checked": "2026-09-11"
+        },
+        {
+          "title": "HOW TO APPLY — Nicholl Reader Judging Criteria",
+          "url": "https://www.oscars.org/nicholl/about",
+          "checked": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "K06",
+      "title": "作者表达：形式怎样承载经验",
+      "path": "cards/k06-author-form.md",
+      "kind": "reference",
+      "modes": [
+        "V3"
+      ],
+      "dimensions": [
+        "V3-01",
+        "V3-02",
+        "V3-03",
+        "V3-04",
+        "V3-05",
+        "V3-06"
+      ],
+      "tags": [
+        "作者",
+        "形式",
+        "内容",
+        "审美",
+        "风格",
+        "经验",
+        "艺术"
+      ],
+      "aliases": [
+        "作者风格",
+        "形式大于内容",
+        "象征",
+        "哲学深度",
+        "视听语言",
+        "表达空洞",
+        "镜头炫技"
+      ],
+      "summary": "把主题声称落实到视听安排及其作用，区分剧本文本与成片创造。",
+      "sources": [
+        {
+          "title": "Rhapsody in blue: Barry Jenkins on Moonlight",
+          "url": "https://www.bfi.org.uk/sight-and-sound/interviews/moonlight-barry-jenkins-2017-miami-oscar-winner",
+          "checked": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "K07",
+      "title": "艺术与影展：先评价表达，再判断单元适配",
+      "path": "cards/k07-festival-differences.md",
+      "kind": "reference",
+      "modes": [
+        "V3"
+      ],
+      "dimensions": [
+        "V3-01",
+        "V3-02",
+        "V3-04",
+        "V3-05",
+        "V3-06"
+      ],
+      "tags": [
+        "影展",
+        "单元",
+        "适配",
+        "艺术",
+        "社会议题",
+        "类型"
+      ],
+      "aliases": [
+        "影展标准",
+        "获奖",
+        "入围",
+        "社会议题",
+        "哲学",
+        "苦难",
+        "先锋",
+        "恐怖片能参展吗"
+      ],
+      "summary": "避免以单一艺术趣味概括影展，分开表达质量与具体届次单元适配。",
+      "sources": [
+        {
+          "title": "Submitting Your Project to the 2027 Sundance Film Festival",
+          "url": "https://www.sundance.org/wp-content/uploads/2026/06/2027_Submissions_FAQ.pdf",
+          "checked": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "K08",
+      "title": "观看满足与传播：点开以后得到什么",
+      "path": "cards/k08-audience-satisfaction.md",
+      "kind": "reference",
+      "modes": [
+        "V4"
+      ],
+      "dimensions": [
+        "V4-01",
+        "V4-02",
+        "V4-03",
+        "V4-04",
+        "V4-05",
+        "V4-06"
+      ],
+      "tags": [
+        "受众",
+        "传播",
+        "满意度",
+        "钩子",
+        "回报",
+        "分享",
+        "平台"
+      ],
+      "aliases": [
+        "爆款",
+        "完播率",
+        "流量",
+        "黄金三秒",
+        "嘴替",
+        "情绪软肋",
+        "算法",
+        "短视频",
+        "点击诱饵"
+      ],
+      "summary": "检查对指定受众的承诺与兑现，区分传播潜力和真实平台表现。",
+      "sources": [
+        {
+          "title": "YouTube's Recommendation System",
+          "url": "https://support.google.com/youtube/answer/16533387?hl=en",
+          "checked": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": "C01",
+      "title": "说出理由，还要看选择",
+      "path": "cases/c01-motivation.md",
+      "kind": "case",
+      "modes": [
+        "V1",
+        "V2"
+      ],
+      "dimensions": [
+        "V1-04",
+        "V2-02"
+      ],
+      "tags": [
+        "动机",
+        "人物选择",
+        "铺垫",
+        "行动代价"
+      ],
+      "aliases": [
+        "人物突然改变",
+        "人物失智",
+        "解释台词",
+        "转变太突然"
+      ],
+      "summary": "用退票选择对照动机宣言与具体处境，避免替人物补写心理。",
+      "sources": []
+    },
+    {
+      "id": "C02",
+      "title": "留白留下什么",
+      "path": "cases/c02-silence-and-omission.md",
+      "kind": "case",
+      "modes": [
+        "V1",
+        "V2",
+        "V3"
+      ],
+      "dimensions": [
+        "V1-09",
+        "V2-04",
+        "V3-03"
+      ],
+      "tags": [
+        "无对白",
+        "留白",
+        "象征",
+        "视听线索"
+      ],
+      "aliases": [
+        "看不懂",
+        "故意不解释",
+        "关键交代缺失",
+        "用画面讲故事"
+      ],
+      "summary": "对照餐具与等待的可见线索，区分有意省略和作者说明未被呈现。",
+      "sources": []
+    },
+    {
+      "id": "C03",
+      "title": "场面安静，观看也可以向前走",
+      "path": "cases/c03-slow-scene.md",
+      "kind": "case",
+      "modes": [
+        "V1",
+        "V2",
+        "V4"
+      ],
+      "dimensions": [
+        "V1-06",
+        "V1-08",
+        "V2-05",
+        "V4-03"
+      ],
+      "tags": [
+        "慢叙事",
+        "静场",
+        "重复",
+        "节奏",
+        "持续观看"
+      ],
+      "aliases": [
+        "剧情不推进",
+        "太慢",
+        "拖沓",
+        "没有冲突",
+        "要不要删场"
+      ],
+      "summary": "对照门岗静场中有无认知更新，检查停留的作用而不强制加快节奏。",
+      "sources": []
+    },
+    {
+      "id": "C04",
+      "title": "好不好，与这个项目拍不拍得了",
+      "path": "cases/c04-quality-and-fit.md",
+      "kind": "case",
+      "modes": [
+        "V1"
+      ],
+      "dimensions": [
+        "V1-04",
+        "V1-10"
+      ],
+      "tags": [
+        "项目适配",
+        "制作限制",
+        "单室内",
+        "改编代价"
+      ],
+      "aliases": [
+        "太贵",
+        "拍不起",
+        "难拍",
+        "工作室选稿",
+        "质量与预算"
+      ],
+      "summary": "用码头原稿与候船室试案说明项目限制如何改变建议而不改动原稿质量分。",
+      "sources": []
+    }
+  ]
+}

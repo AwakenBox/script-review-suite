@@ -1,0 +1,14 @@
+{
+  "name": "script-review-suite",
+  "description": "剧本四镜｜面向编剧、导演与制片团队的双 Skill 剧本顾问。专业知识检索、情节证据、改稿与选稿建议，支持工业／故事／艺术／传播四视角按需评分，默认自然对话。",
+  "topics": [
+    "agent-skills",
+    "codex-skills",
+    "screenwriting",
+    "script-review",
+    "storytelling",
+    "filmmaking",
+    "knowledge-retrieval",
+    "chinese"
+  ]
+}
